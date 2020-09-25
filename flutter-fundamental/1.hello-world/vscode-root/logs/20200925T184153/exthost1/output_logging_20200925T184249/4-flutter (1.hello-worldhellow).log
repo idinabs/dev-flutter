@@ -1,0 +1,7 @@
+[1.hello-world/hellow] flutter pub get
+   Woah! You appear to be trying to run flutter as root.
+   We strongly recommend running the flutter tool without superuser privileges.
+  /
+📎
+Running "flutter pub get" in hellow...                              3.3s
+exit code 0

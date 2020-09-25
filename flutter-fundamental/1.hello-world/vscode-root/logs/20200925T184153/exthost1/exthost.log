@@ -1,0 +1,38 @@
+[2020-09-25 18:41:57.232] [exthost] [info] extension host started
+[2020-09-25 18:41:57.277] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2020-09-25 18:41:57.278] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/44/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-09-25 18:41:57.312] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2020-09-25 18:41:57.312] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/44/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-09-25 18:41:57.340] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-09-25 18:41:57.340] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/44/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-09-25 18:41:57.347] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-09-25 18:41:57.347] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/44/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2020-09-25 18:41:57.403] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-25 18:41:57.403] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/44/usr/share/code/resources/app/extensions/git/dist/main
+[2020-09-25 18:41:57.527] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-09-25 18:41:57.527] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/44/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-09-25 18:41:57.534] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-09-25 18:41:57.534] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/44/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-09-25 18:41:57.655] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-25 18:41:57.655] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/44/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-09-25 18:41:57.705] [exthost] [info] eager extensions activated
+[2020-09-25 18:42:14.966] [exthost] [info] extension host started
+[2020-09-25 18:42:15.030] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2020-09-25 18:42:15.030] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/44/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-09-25 18:42:15.051] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2020-09-25 18:42:15.051] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/44/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-09-25 18:42:15.075] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-09-25 18:42:15.075] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/44/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-09-25 18:42:15.080] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-09-25 18:42:15.080] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/44/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2020-09-25 18:42:15.107] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-25 18:42:15.107] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/44/usr/share/code/resources/app/extensions/git/dist/main
+[2020-09-25 18:42:15.139] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-09-25 18:42:15.139] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/44/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-09-25 18:42:15.142] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-09-25 18:42:15.142] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/44/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-09-25 18:42:15.234] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-25 18:42:15.234] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/44/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-09-25 18:42:15.853] [exthost] [info] eager extensions activated
+[2020-09-25 18:42:30.076] [exthost] [info] ExtensionService#_doActivateExtension Dart-Code.dart-code {"startup":false,"extensionId":{"value":"Dart-Code.dart-code","_lower":"dart-code.dart-code"},"activationEvent":"onCommand:flutter.createProject"}
+[2020-09-25 18:42:30.076] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/dart-code.dart-code-3.14.1/out/dist/extension
