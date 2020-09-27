@@ -596,8 +596,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1475,9 +1474,9 @@
             "folder": "file:///home/petot/Documents/mobile-dev/flutter-fundamental/1.hello-world/hellow",
             "backupPath": "/home/petot/Documents/mobile-dev/flutter-fundamental/1.hello-world/vscode-root/Backups/3cb314e86e55de767f981991c867e61d",
             "uiState": {
-                "mode": 1,
+                "mode": 0,
                 "x": 286,
-                "y": 116,
+                "y": 114,
                 "width": 1024,
                 "height": 714
             }
@@ -1498,9 +1497,9 @@
                 "folder": "file:///home/petot/Documents/mobile-dev/flutter-fundamental/1.hello-world/hellow",
                 "backupPath": "/home/petot/Documents/mobile-dev/flutter-fundamental/1.hello-world/vscode-root/Backups/3cb314e86e55de767f981991c867e61d",
                 "uiState": {
-                    "mode": 1,
+                    "mode": 0,
                     "x": 286,
-                    "y": 116,
+                    "y": 114,
                     "width": 1024,
                     "height": 714
                 }

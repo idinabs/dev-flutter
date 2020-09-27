@@ -44,3 +44,41 @@ Use '--' to separate paths from revisions, like this:
 > git show --textconv :flutter-fundamental/1.hello-world/hellow/lib/main.dart
 > git ls-files --stage -- /home/petot/Documents/mobile-dev/flutter-fundamental/1.hello-world/hellow/lib/main.dart
 > git check-ignore -v -z --stdin
+> git status -z -u
+> git ls-files --stage -- /home/petot/Documents/mobile-dev/flutter-fundamental/1.hello-world/hellow/lib/main.dart
+> git cat-file -s 11655b668ba1bae286b1fd31f1234cdec0b46d36
+> git show --textconv :flutter-fundamental/1.hello-world/hellow/lib/main.dart
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/petot/Documents/mobile-dev/flutter-fundamental/1.hello-world/hellow/lib/main.dart
+> git cat-file -s 11655b668ba1bae286b1fd31f1234cdec0b46d36
+> git show --textconv :flutter-fundamental/1.hello-world/hellow/lib/main.dart
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
